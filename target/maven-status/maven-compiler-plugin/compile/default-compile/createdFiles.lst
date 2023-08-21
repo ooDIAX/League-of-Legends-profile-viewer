@@ -1,0 +1,12 @@
+controller\RitoController.class
+riotapi\APIinfo.class
+riotapi\Resources.class
+riotapi\Summoner.class
+main\match\ParticipantDto.class
+matchService\MatchApiService.class
+riotapi\Region.class
+main\match\Info.class
+matchService\MatchService.class
+main\match\Match.class
+org\example\Main.class
+riotapi\Summoner$1.class
