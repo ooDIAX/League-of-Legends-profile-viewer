@@ -1,5 +1,7 @@
 # **League-of-Legends-profile-viewer**
 
+Java applications for viewing League of Legends profiles
+
 ### **How to setup and run**
 
 1.  Clone repository
